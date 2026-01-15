@@ -1,0 +1,10 @@
+a.out
+*.out
+*.exe
+
+build/
+
+.venv/
+__pycache__/
+
+.vscode
